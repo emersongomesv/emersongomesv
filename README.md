@@ -62,3 +62,10 @@ Atualmente aprofundando conhecimentos em:
 ## Objetivo profissional
 
 Construir soluções orientadas a dados, processos e indicadores, unindo análise de sistemas, BI e melhoria contínua para apoiar tomada de decisão e eficiência operacional.
+---
+
+## Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emersongomesv&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersongomesv&layout=compact&theme=tokyonight)
