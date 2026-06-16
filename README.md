@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Emerson Vieira 👋
 
-<!--
-**emersongomesv/emersongomesv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Analista de Sistemas | BI & Data Analytics | Engenharia de Requisitos
 
-Here are some ideas to get you started:
+Profissional com atuação voltada para:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Business Intelligence
+* Análise de Dados
+* Engenharia de Requisitos
+* Processos
+* Analytics
+* Automação
+* Melhoria Contínua
+
+Atualmente aprofundando conhecimentos em:
+
+* Power BI
+* DAX
+* SQL
+* Python
+* Data Analytics
+* Engenharia de Software
+* CPRE
+* Six Sigma
+
+---
+
+## Tecnologias e Ferramentas
+
+* Power BI
+* Python
+* SQL
+* DAX
+* Excel
+* Git/GitHub
+* Business Intelligence
+* Data Visualization
+
+---
+
+## Projetos em destaque
+
+* Process & SLA Analytics Dashboard
+* Data Analysis Python
+* Automação de Processos
+* Dashboards Analíticos
+* Projetos de BI
+
+---
+
+## Objetivo profissional
+
+Construir soluções orientadas a dados, processos e indicadores, unindo análise de sistemas, BI e melhoria contínua para apoiar tomada de decisão e eficiência operacional.
