@@ -1,4 +1,4 @@
-![Banner](banner-github.png)
+![Banner](banner-github.png.png)
 # Olá, eu sou Emerson Vieira 👋
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
