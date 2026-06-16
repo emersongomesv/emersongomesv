@@ -1,5 +1,15 @@
 # Olá, eu sou Emerson Vieira 👋
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![DAX](https://img.shields.io/badge/DAX-0F6CBD?style=for-the-badge)
+
+![Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F00?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ## Analista de Sistemas | BI & Data Analytics | Engenharia de Requisitos
 
 Profissional com atuação voltada para:
